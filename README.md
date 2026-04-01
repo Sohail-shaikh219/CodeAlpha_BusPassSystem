@@ -30,6 +30,3 @@ This system allows users to enter their details such as name, route, and date, a
 The application is deployed on the cloud, ensuring accessibility and scalability.
 
 ---
-
-## 👨‍💻 Author
-Sohail Shaikh
